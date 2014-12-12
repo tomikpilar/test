@@ -1,12 +1,12 @@
 {
     "fw": {
         "ebp-280": {
-            "version": "1.5.13",
-            "url": "http:\/\/www.st3di.com\/downloads\/sw\/fw_control_ebp_280_en_1_5_13.hex"
+            "version": "1.5.14",
+            "url": "http:\/\/www.st3di.com\/downloads\/sw\/fw_control_ebp_280_en_1_5_14.hex"
         },
         "ebp-200": {
-            "version": "1.5.13",
-            "url": "http:\/\/www.st3di.com\/downloads\/sw\/fw_control_ebp_200_en_1_5_13.hex"
+            "version": "1.5.14",
+            "url": "http:\/\/www.st3di.com\/downloads\/sw\/fw_control_ebp_200_en_1_5_14.hex"
         }
     },
     "version": "1.2.34",
